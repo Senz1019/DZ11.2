@@ -3,6 +3,7 @@ def convert_to_uppercase(string):
 
 # Пример использования функции
 input_string = input()
-output_string = convert_to_uppercase(input_string)
+"""Преобразует введенный текст в текст с заглавными буквами"""
+output_string = convert_to_uppercase(input_string) 
 print(output_string)
 
